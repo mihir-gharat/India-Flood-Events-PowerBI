@@ -52,7 +52,7 @@ Analyzes flood events and their changes over time, including trends in flood fre
 
 Provides detailed analysis of flood severity, affected areas, and the overall impact of flood events.
 
-![Flood Analysis](Screenshots/Flood Analysis.png)
+![Flood Analysis](Screenshots/Flood_Analysis.png)
 
 ### 4. State Analysis
 
