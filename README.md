@@ -58,7 +58,7 @@ Provides detailed analysis of flood severity, affected areas, and the overall im
 
 Compares flood events and their impact across different states in India.
 
-![State Analysis](Screenshots/State_20Analysis.png)
+![State Analysis](Screenshots/State_Analysis.png)
 
 ## Key Insights
 
